@@ -1,0 +1,22 @@
+# 确保 shell 脚本始终用 LF，避免在 Linux 构建环境出错
+*.sh text eol=lf
+
+# 确保 JSON 配置文件一致性
+*.json text eol=lf
+
+# Markdown / 文档类也保持 LF（可选）
+*.md text eol=lf
+*.toml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+
+# 图像和二进制文件不作行结束符处理
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.svg binary
+*.ttf binary
+*.woff binary
+*.woff2 binary

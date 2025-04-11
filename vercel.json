@@ -1,12 +1,11 @@
 {
   "build": {
     "env": {
-      "HUGO_VERSION": "0.145.0",
+      "HUGO_VERSION": "0.145.0"
     }
   },
-  "buildCommand": "curl -sSL https://golang.org/dl/go1.20.5.linux-amd64.tar.gz | tar -C /tmp -xzf - && export PATH=$PATH:/tmp/go/bin && hugo mod tidy && npm run build",
+  "buildCommand": "bash scripts/vercel-build.sh",
   "framework": null,
   "ignoreCommand": "git diff --quiet HEAD^ HEAD ./",
   "outputDirectory": "public"
 }
-
