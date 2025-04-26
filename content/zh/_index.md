@@ -26,11 +26,37 @@ menu: {main: {weight: 9}}
 {.h3 .text-center}
 {{% /blocks/lead %}}
 
+{{% blocks/section color="green" %}}
+真实的自运营节点
+{.h3 .text-center}
+
+绝非网上搜罗的临时性节点
+{.h3 .text-center}
+{{% /blocks/section %}}
+
+
 {{% blocks/section color="red" %}}
-位于日本东京都全千兆高速机房，畅享超低延迟的全球网络流量
+全千兆高速机房，畅享超低延迟的全球网络流量
 {.h3 .text-center}
 
 优秀的连接体验，无需等待，全球可连，数字游民的可靠选择
+{.h3 .text-center}
+{{% /blocks/section %}}
+
+
+{{% blocks/section color="orange" %}}
+本节点独有的高速缓冲技术
+{.h3 .text-center}
+
+确保看视频不中断，带宽之外的丝滑保证
+{.h3 .text-center}
+{{% /blocks/section %}}
+
+{{% blocks/section color="green" %}}
+最新的加密组件，双层加密技术
+{.h3 .text-center}
+
+OVER and OVER 传输隧道，保证隐私安全
 {.h3 .text-center}
 {{% /blocks/section %}}
 
@@ -57,6 +83,8 @@ menu: {main: {weight: 9}}
 {{% blocks/lead color="green" %}}
 0风险：7天不满意退款保证
 {.h1 .text-center}
+(特价套餐除外)
+{.h5 .text-center}
 {{% /blocks/lead %}}
 
 {{% blocks/section color="secondary" %}}
@@ -78,24 +106,5 @@ menu: {main: {weight: 9}}
 {{% blocks/section color="primary" %}}
 小憩时刻：畅享观看高清电影，4K视频
 {.h1 .text-center}
-{{% /blocks/section %}}
-
-{{% blocks/section type="row" color="cyan" %}}
-{{% blocks/feature icon="fab fa-telegram" %}}
-[Telegram](https://t.me/top33way)
-{.h5 .text-center}
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-twitter" %}}
-[Follow on Twitter](https://x.com/33waytop)
-{.h5 .text-center}
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fa-regular fa-envelope" %}}
-[Email us](mailto:top33way@gmail.com)
-{.h5 .text-center}
-{{% /blocks/feature %}}
 {{% /blocks/section %}}
 
