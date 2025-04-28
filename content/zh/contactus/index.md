@@ -5,7 +5,7 @@ menu: {main: {weight: 50}}
 description: 在社交媒体上找到我们
 ---
 
-{{% blocks/cover title="" image_anchor="bottom" height="full" %}}
+{{% blocks/cover title="" image_anchor="top" height="full" %}}
 
 {{% blocks/section type="row" color="transparent" %}}
 {{% blocks/feature icon="fab fa-telegram" %}}
@@ -27,7 +27,7 @@ description: 在社交媒体上找到我们
 {{% /blocks/section %}}
 
 
-【成就之门】利用现代网络和安全技术，随时随地接入高速国际网络。以可接受的低成本接入方案，定制私人VPN服务器。
+【成就之门】最新的现代网络安全技术，随时随地接入高速国际网络。低成本接入方案，定制私人VPN服务器。
 {.h5 .text-center .text-white}
 {{% /blocks/cover %}}
 

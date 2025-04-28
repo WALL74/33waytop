@@ -30,13 +30,13 @@ menu: {main: {weight: 9}}
 真实的自运营节点
 {.h3 .text-center}
 
-绝非网上搜罗的临时性节点
+绝非网上搜罗的临时性的免费的节点
 {.h3 .text-center}
 {{% /blocks/section %}}
 
 
 {{% blocks/section color="red" %}}
-全千兆高速机房，畅享超低延迟的全球网络流量
+千兆高速带宽，畅享超低延迟的全球网络流量
 {.h3 .text-center}
 
 优秀的连接体验，无需等待，全球可连，数字游民的可靠选择
@@ -45,7 +45,7 @@ menu: {main: {weight: 9}}
 
 
 {{% blocks/section color="orange" %}}
-本节点独有的高速缓冲技术
+本节点独有的高速预缓冲技术
 {.h3 .text-center}
 
 确保看视频不中断，带宽之外的丝滑保证
@@ -59,6 +59,15 @@ menu: {main: {weight: 9}}
 OVER and OVER 传输隧道，保证隐私安全
 {.h3 .text-center}
 {{% /blocks/section %}}
+
+{{% blocks/section color="yellow" %}}
+最严格的安全措施
+{.h3 .text-center}
+
+不识别，不记录，不分享敏感数据
+{.h3 .text-center}
+{{% /blocks/section %}}
+
 
 
 {{% blocks/section color="primary" type="row" %}}
